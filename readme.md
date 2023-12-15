@@ -27,6 +27,18 @@
 
 - @Query 어노테이션
 
-- EntityMapper
+- EntityManager
 
 <br><hr><br>
+
+# 03. Repository를 사용자화(Customizing) 하는 QueryDSL(Query Domain Specific Language)
+
+- JPAQuery와 JPAClause 활용
+
+- JPAQueryFactory 활용
+
+- QuerydslRepositorySupport와 JpaRepository를 활용
+
+- JpaRepository를 활용한 QueryDSL 적용
+
+- JpaRepository에서 클래스 상속없이 QueryDSL 적용
