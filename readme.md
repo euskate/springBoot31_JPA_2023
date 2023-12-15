@@ -14,12 +14,19 @@
 
 - ProductService.java : Service Interface
 
-- ProductServiceImpl.java : Service Class use of builder & modelMapper
-
-- EntityManager
+- ProductServiceImpl.java : Service Class use of builder & modelMapper & EntityManager
 
 <br>
 <hr>
 <br>
 
 
+# 02. Repository를 구성하는 여러 가지 방법
+
+- JPQL
+
+- @Query 어노테이션
+
+- EntityMapper
+
+<br><hr><br>
