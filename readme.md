@@ -42,3 +42,15 @@
 - JpaRepository를 활용한 QueryDSL 적용
 
 - JpaRepository에서 클래스 상속없이 QueryDSL 적용
+
+<br><hr><br>
+
+# 04. Spring Boot Data JPA Relationship & JOIN & JUnitTest
+
+- Spring Boot Data JPA Relationship
+
+- Spring Boot Data JPA Join
+
+- Spring Boot Data JPA JUnit Test
+
+- Spring Boot Data JPA Crud Test
